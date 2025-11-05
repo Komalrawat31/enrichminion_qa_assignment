@@ -19,7 +19,7 @@
   - Severity and priority  
 
 ### **4. Automation (Optional)**
-- Contains Api script for postman and run that script on that.
+- Contains Api script for postman and run  script there.
   
 
 
